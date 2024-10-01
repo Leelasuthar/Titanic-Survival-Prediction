@@ -1,7 +1,5 @@
 # Titanic-Survival-Prediction
 
-# Titanic Survival Prediction Problem
-
 In this problem, you'll use data science and machine learning techniques to predict the survival of passengers on the Titanic. Below is a step-by-step guide to approach the problem.
 
 ## Step 1: Load and Explore the Dataset
